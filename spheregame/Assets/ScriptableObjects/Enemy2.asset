@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c8ac1ef70131a94091fcac81513c3d3, type: 3}
+  m_Name: Enemy2
+  m_EditorClassIdentifier: 
+  drops:
+  - {fileID: -5699881134608351915, guid: 6690588106ed56544b7d01ee98d1b9f1, type: 3}
+  - {fileID: -5699881134608351915, guid: 6690588106ed56544b7d01ee98d1b9f1, type: 3}
+  - {fileID: -5699881134608351915, guid: 6690588106ed56544b7d01ee98d1b9f1, type: 3}
+  material: {fileID: 2100000, guid: 35d8ef206ac7db34cb2df819b01bcc02, type: 2}
+  maxHealth: 25
+  damage: 2
